@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+#Welcome to My GitHub Profile!
 
 ## About Me
 I'm Abhishek Satpathy, a Computer Science student at the University of Virginia!
@@ -27,6 +27,7 @@ Currently, I'm working on:
 ## Honorable Mentions
 - [Trivia app](https://asatpathy314.github.io/trivia-app/): Built with React.js, check out the live demo!
 - [Spark](https://github.com/asatpathy314/spark): A full-stack web application built with Next.js, FastAPI, and MongoDB to match high school students with their dream college mentor. (Honorable mention due to incomplete feature development)
+- [CSO Toy-ISA Translator](https://github.com/asatpathy314/cso-toy-isa-translator) A little project I made to help out some of my classmates on CS 2130 assignments. It's not very technically impressive, but it felt nice to make something and hear from random people that they used it (it's also my first star :star_struck:).
 - [CTF-Writeups](https://asatpathy314.github.io/ctf-writeups/): Work in progress...
 
 ## Contact Me
