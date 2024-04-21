@@ -27,7 +27,9 @@ Right now I'm taking:
 - Demo: [Presentation](https://github.com/asatpathy314/ner-model-analysis-for-ems/blob/main/2_23_2024%20-%20Link%20Lab%20CogEMS.pdf)
 
 ## Honorable Mentions
-[If you've contributed to any open-source projects or collaborated on projects with others, mention them here.]
+- [Trivia app](https://asatpathy314.github.io/trivia-app/) I built with React.js with a live demo at the link.
+- [Spark](https://github.com/asatpathy314/spark) A full-stack web application built with Next.js, FastAPI, and MongoDB to match high school students with their dream college mentor. (A honorable mention only because we never got a chance to finish the named entity recognition similarity score calculator). :(
+- [CTF-Writeups](https://asatpathy314.github.io/ctf-writeups/) Work in progress...
 
 ## Contact Me
-[Provide your contact information or links to your social media profiles if you're open to collaboration or have any inquiries.]
+Reach out to me at my [email](mailto:asatpathy314@gmail.com) if you have any cool ideas or collaborations.
