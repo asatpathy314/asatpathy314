@@ -14,13 +14,12 @@ Right now I'm taking:
 
 ### [cTAKES and ScispaCy Entity Extraction](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor)
 - Description: This program is designed to extract and analyze symptoms and treatments from clinical text documents using two different tools: cTAKES and SciSpaCy. The program includes scripts for data loading, processing, extraction, and validation. It currently supports three different websites' datasets: MayoClinic, ODEMSA, and Wikipedia.
-- Technologies Used: Python, Bash Scripts, ScispaCy (and spaCy), cTAKES, pandas.
+- Technologies Used: Python, Bash, ScispaCy (and spaCy), cTAKES, pandas.
 
-### [Project Name 2](link_to_project)
-- Description: [Brief description of the project. What problem does it solve? What technologies did you use?]
-- Key Features: [List some key features or functionalities of the project.]
-- Technologies Used: [List the main technologies or frameworks used in the project.]
-- Demo: [If available, provide a link to a demo or live version of the project.]
+### [TravelSafe](https://github.com/asatpathy314/travel-safe-wics)
+- Description: A full-stack web application designed to be a one-stop shop for travel safety information. 
+- Technologies Used: pandas, sqlite, Python, Scrapy, Beautiful Soup, Next.js, and TailwindCSS.
+- Demo: [Devpost](https://devpost.com/software/travelsafe-d08b45)
 
 ### [Project Name 3](link_to_project)
 - Description: [Brief description of the project. What problem does it solve? What technologies did you use?]
