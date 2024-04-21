@@ -10,7 +10,7 @@ Right now I'm taking:
 - Probability (APMA 3100)
 - Applied Physics (ECE 2200)
 
-## Projects
+## My Favorite Projects!
 
 ### [cTAKES and ScispaCy Entity Extraction](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor)
 - Description: This program is designed to extract and analyze symptoms and treatments from clinical text documents using two different tools: cTAKES and SciSpaCy. The program includes scripts for data loading, processing, extraction, and validation. It currently supports three different websites' datasets: MayoClinic, ODEMSA, and Wikipedia.
@@ -21,13 +21,12 @@ Right now I'm taking:
 - Technologies Used: pandas, sqlite, Python, Scrapy, Beautiful Soup, Next.js, and TailwindCSS.
 - Demo: [Devpost](https://devpost.com/software/travelsafe-d08b45)
 
-### [Project Name 3](link_to_project)
-- Description: [Brief description of the project. What problem does it solve? What technologies did you use?]
-- Key Features: [List some key features or functionalities of the project.]
-- Technologies Used: [List the main technologies or frameworks used in the project.]
-- Demo: [If available, provide a link to a demo or live version of the project.]
+### [NER Model Analysis in the EMS Domain](https://github.com/asatpathy314/ner-model-analysis-for-ems)
+- Description: A set of generalizable scripts that can be used to validate the performance of medical NER models like ScispaCy and MetaMap.
+- Technologies Used: pandas, openpyxl, Python, spaCy.
+- Demo: [Presentation](https://github.com/asatpathy314/ner-model-analysis-for-ems/blob/main/2_23_2024%20-%20Link%20Lab%20CogEMS.pdf)
 
-## Contributions
+## Honorable Mentions
 [If you've contributed to any open-source projects or collaborated on projects with others, mention them here.]
 
 ## Contact Me
