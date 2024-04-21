@@ -5,10 +5,10 @@ My name's Abhishek Satpathy, and I'm a Computer Science student at the Universit
 
 ## Coursework
 Right now I'm taking:
-	- Computer Systems and Organization (CS 2130)
-	- Discrete Mathematics (CS 2120)
-	- Probability (APMA 3100)
-	- Applied Physics (ECE 2200)
+- Computer Systems and Organization (CS 2130)	
+- Discrete Mathematics (CS 2120)
+- Probability (APMA 3100)
+- Applied Physics (ECE 2200)
 
 ## Projects
 
