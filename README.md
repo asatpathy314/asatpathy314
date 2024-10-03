@@ -5,9 +5,8 @@ I'm Abhishek Satpathy, a Computer Science student at the University of Virginia!
 
 ## Personal Coursework
 Currently, I'm working on:
-- [Pratical Deep Learning for coders (fast.ai)](https://course.fast.ai/)
 - [pwn.college](https://pwn.college/)
-- [CTF Writeups](https://asatpathy314.github.io/ctf-writeups/)
+- [https://akunacapital.teachable.com/p/options101](Options 101)
 
 ## My Favorite Projects!
 
