@@ -6,7 +6,7 @@ I'm Abhishek Satpathy, a Computer Science student at the University of Virginia!
 ## Personal Coursework
 Currently, I'm working on:
 - [pwn.college](https://pwn.college/)
-- [https://akunacapital.teachable.com/p/options101](Options 101)
+- [Options 101](https://akunacapital.teachable.com/p/options101)
 
 ## My Favorite Projects!
 
