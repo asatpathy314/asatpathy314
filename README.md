@@ -5,7 +5,7 @@ I'm Abhishek Satpathy, a Computer Science student at the University of Virginia!
 
 ## Personal Coursework
 Currently, I'm working on:
-- [pwn.college](https://pwn.college/)
+- [Learning Rust](https://github.com/asatpathy314/learning-rust)
 - [Options 101](https://akunacapital.teachable.com/p/options101)
 
 ## My Favorite Projects!
