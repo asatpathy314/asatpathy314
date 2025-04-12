@@ -1,34 +1,29 @@
-# Welcome to My GitHub Profile!
+## Hi!
+Hi! I'm Abhi, if you're here to find my CTF writeups you should probably take a look [here](https://habichuela.pages.dev) or look through my repositories for solutions to previous challenges. If you're here to learn a little bit more about me keeping reading this!
 
-## About Me
-I'm Abhishek Satpathy, a Computer Science student at the University of Virginia!
+## What I'm Working on Right Now
+1. Learning Competitive Programming with C++ - [repository](https://github.com/asatpathy314/competitive-programming)
+2. Learning Rust - [repository](https://github.com/asatpathy314/learning-rust)
+3. Interview prep - [repository](https://github.com/asatpathy314/leetcode)
 
-## Personal Coursework
-Currently, I'm working on:
-- [Learning Rust](https://github.com/asatpathy314/learning-rust)
-- Lots of CTFs!
-- Writing a very significant amount of code for my classes that I can't post on GitHub :(
+## Some of my Favorite Projects
+1. My Blog - [link](https://habichuela.pages.dev)
+2. `diff-sentry` a comprehensive solution to OSS security - [link](https://diff-sentry.tech)
+3. A transcript timestamp annotator tool built for busy researchers - [repository](https://github.com/asatpathy314/transcript-timestamp-annotator)
+4. A full pipeline built in Python to extract symptoms from natural language using Apache cTAKES and SciSpaCy and validate the results against pre-determined ground truth - [repository](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor).
+5. A named entity recognition analysis pipeline built off of state-of-the-art research in NLP validation - [repository](https://github.com/asatpathy314/ner-model-analysis-for-ems).
+6. A collection of writeups for PicoCTF 2025 (got over 300 unique viewers) - [repository](https://github.com/asatpathy314/picoctf-2025)
 
-## My Favorite Projects!
+## Some Interesting Classes I'm Taking
+This semester (Spring 2025):
+1. CS 4790 - Cryptocurrency: An introduction to cryptocurrency and some security implications (51% attack, insecure contract code, etc.)
+2. CS 4630 - Defense Against the Dark Arts: Modern techniques for binary exploitation, reverse engineering, secure programming, and some web exploitation stuff (lower level though, i.e. sandboxing, browser vulnerabilities, etc.)
+3. CS 3120 - Theory of Computation: Finite State Automata, Circuits, Context-free languages, Turing machines, just the usual.
+4. CS 4501 - Algorithmic Economics: How modern economics combines techniques in machine learning and statistics with economic knowledge to create efficient markets. Mostly an introduction where we learn about the basics of how reinforcement learning techniques, game theory, and tools like linear programming can be applied in an economic context.
+5. CS 3240 - Software Engineering: A semester-long project course essentially. We learn about modern techniques in Software Engineering at scale (i.e. requirements elicitation, communicating with stakeholders, and problems associating with developing large software systems).
 
-### [cTAKES and ScispaCy Entity Extraction](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor)
-- **Description:** Extract and analyze symptoms and treatments from clinical text documents using cTAKES and SciSpaCy. Supports datasets from MayoClinic, ODEMSA, and Wikipedia.
-- **Technologies Used:** Python, Bash, ScispaCy (and spaCy), cTAKES, pandas.
-
-### [TravelSafe](https://github.com/asatpathy314/travel-safe-wics)
-- **Description:** A full-stack web application designed to be a one-stop shop for travel safety information.
-- **Technologies Used:** pandas, sqlite, Python, Scrapy, Beautiful Soup, Next.js, and TailwindCSS.
-- **Demo:** [Devpost](https://devpost.com/software/travelsafe-d08b45)
-
-### [NER Model Analysis in the EMS Domain](https://github.com/asatpathy314/ner-model-analysis-for-ems)
-- **Description:** A set of generalizable scripts that can be used to validate the performance of medical NER models like ScispaCy and MetaMap.
-- **Technologies Used:** pandas, openpyxl, Python, spaCy.
-- **Demo:** [Presentation](https://github.com/asatpathy314/ner-model-analysis-for-ems/blob/main/2_23_2024%20-%20Link%20Lab%20CogEMS.pdf)
-
-## Honorable Mentions
-- [Trivia app](https://asatpathy314.github.io/trivia-app/): Built with React.js, check out the live demo!
-- [Spark](https://github.com/asatpathy314/spark): A full-stack web application built with Next.js, FastAPI, and MongoDB to match high school students with their dream college mentor. (Honorable mention due to incomplete feature development)
-- [CSO Toy-ISA Translator](https://github.com/asatpathy314/cso-toy-isa-translator) A little project I made to help out some of my classmates on CS 2130 assignments. It's not very technically impressive, but it felt nice to make something and hear from random people that they used it (it's also my first star :star_struck:).
-
-## Contact Me
-Reach out to me at my [email](mailto:asatpathy314@gmail.com) if you have any cool ideas or collaborations!
+## Some Interesting Classes I've Taken (not a comprehensive transcript)
+1. CS 3130 - Computer Systems and Organization II: Virtual memory, caches, pipelining, and some other low-level stuff including how attacks like Meltdown and Spectre work behind the hood.
+2. CS 3100 - Data Structures and Algorithms II: An upper-level course on algorithms with an emphasis on problem-solving techniques with graphs, divide-and-conquer algorithms, greedy algorithms, dynamic programming, reductions, and some basic machine learning.
+3. CS 4501 - Reinforcement Learning: An introduction from bandit algorithms to deep-Q-learning meant to teach you about the principles of Reinforcement Learning without getting too nitty-gritty with proofs and the mathematics behind the algorithms. We worked through chapters 1-13 of "Reinforcement learning : an introduction / Richard S. Sutton and Andrew G. Barto" skipping a few minor things along the way.
+4. ECE 2410 - Machine Learning: An introduction to some of the principles of machine learning beginning with unsupervised vs. supervised learning and ending with hyperparameter optimization and neural networks.
