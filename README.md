@@ -1,4 +1,4 @@
-## Hi!
+## 🐼
 Hi! I'm Abhi, if you're here to find my CTF writeups you should probably take a look [here](https://habichuela.pages.dev) or look through my repositories for solutions to previous challenges. If you're here to learn a little bit more about me keeping reading this!
 
 ## What I'm Working on Right Now
