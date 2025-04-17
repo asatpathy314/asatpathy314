@@ -13,6 +13,8 @@ Hi! I'm Abhi, if you're here to find my CTF writeups you should probably take a 
 4. A full pipeline built in Python to extract symptoms from natural language using Apache cTAKES and SciSpaCy and validate the results against pre-determined ground truth - [repository](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor).
 5. A named entity recognition analysis pipeline built off of state-of-the-art research in NLP validation - [repository](https://github.com/asatpathy314/ner-model-analysis-for-ems).
 6. A collection of writeups for PicoCTF 2025 (got over 300 unique viewers) - [repository](https://github.com/asatpathy314/picoctf-2025)
+7. A web GUI for a popular CLI habit tracking tool - [website](https://harsh-gui.vercel.app)
+8. A website you can use to quickly query Pokémon weaknesses - [website](https://pokebot-web.vercel.app)
 
 ## Some Interesting Classes I'm Taking
 This semester (Spring 2025):
