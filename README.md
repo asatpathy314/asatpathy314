@@ -1,4 +1,4 @@
-If you have interesting books/resources/ideas for collaboration feel free to send me an email at satpathy(dot)abhishek001(at) google's email provider.
+if you have interesting books/resources/ideas for collaboration feel free to send me an email at satpathy(dot)abhishek001(at) google's email provider.
 
 ## What I'm Working on Right Now
 1. [fast.ai](https://course.fast.ai/) - practical deep learning for coders
@@ -8,8 +8,8 @@ If you have interesting books/resources/ideas for collaboration feel free to sen
 ## Some of my Favorite Projects
 1. `diff-sentry` a stab at scalable code analysis for OSS security - [link](https://diff-sentry.tech)
 2. a transcript timestamp annotator tool (meant for curating a dataset similar to Ego-Exo4D) - [repository](https://github.com/asatpathy314/transcript-timestamp-annotator)
-3. A full pipeline built in Python to extract symptoms from natural language using Apache cTAKES and SciSpaCy and validate the results against pre-determined ground truth - [repository](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor).
-4. A named entity recognition analysis eval pipeline - [repository](https://github.com/asatpathy314/ner-model-analysis-for-ems).
+3. a full pipeline built in Python to extract symptoms from natural language using Apache cTAKES and SciSpaCy and validate the results against pre-determined ground truth - [repository](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor).
+4. a named entity recognition analysis eval pipeline - [repository](https://github.com/asatpathy314/ner-model-analysis-for-ems).
 
 ## Some Interesting Classes I've Taken
 1. CS 3130 - Computer Systems and Organization II: Virtual memory, caches, pipelining, and some other low-level stuff including how attacks like Meltdown and Spectre work behind the hood.
