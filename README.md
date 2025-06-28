@@ -6,11 +6,10 @@ If you have interesting books/resources/ideas for collaboration feel free to sen
 3. leetcode for fun - [repository](https://github.com/asatpathy314/leetcode)
 
 ## Some of my Favorite Projects
-1. My Blog - [link](https://habichuela.pages.dev)
-2. `diff-sentry` a stab at scalable code analysis for OSS security - [link](https://diff-sentry.tech)
-3. a transcript timestamp annotator tool (meant for curating a dataset similar to Ego-Exo4D) - [repository](https://github.com/asatpathy314/transcript-timestamp-annotator)
-4. A full pipeline built in Python to extract symptoms from natural language using Apache cTAKES and SciSpaCy and validate the results against pre-determined ground truth - [repository](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor).
-5. A named entity recognition analysis eval pipeline - [repository](https://github.com/asatpathy314/ner-model-analysis-for-ems).
+1. `diff-sentry` a stab at scalable code analysis for OSS security - [link](https://diff-sentry.tech)
+2. a transcript timestamp annotator tool (meant for curating a dataset similar to Ego-Exo4D) - [repository](https://github.com/asatpathy314/transcript-timestamp-annotator)
+3. A full pipeline built in Python to extract symptoms from natural language using Apache cTAKES and SciSpaCy and validate the results against pre-determined ground truth - [repository](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor).
+4. A named entity recognition analysis eval pipeline - [repository](https://github.com/asatpathy314/ner-model-analysis-for-ems).
 
 ## Some Interesting Classes I've Taken
 1. CS 3130 - Computer Systems and Organization II: Virtual memory, caches, pipelining, and some other low-level stuff including how attacks like Meltdown and Spectre work behind the hood.
