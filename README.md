@@ -3,7 +3,7 @@ if you have interesting books/resources/ideas for collaboration feel free to sen
 ## What I'm Working on Right Now
 1. [A recreation of Yann LeCun's 1998 MNIST digits recognition paper.](https://github.com/asatpathy314/mnist) - recreating papers to learn PyTorch
 2. [Stanford CS231n](https://cs231n.github.io/) - learning some theory from Stanford's "CS231n: Deep Learning for Computer Vision"
-3. [mml-book.github.io](https://mml-book.github.io/) - mathematics for machine learning (the textbook)
+3. [Mathematics for Machine Learning](https://mml-book.github.io/) - the textbook
 4. leetcode for fun - [repository](https://github.com/asatpathy314/leetcode)
 
 ## Some of my Favorite Projects
