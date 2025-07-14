@@ -1,9 +1,10 @@
 if you have interesting books/resources/ideas for collaboration feel free to send me an email at satpathy(dot)abhishek001(at) google's email provider.
 
 ## What I'm Working on Right Now
-1. [fast.ai](https://course.fast.ai/) - practical deep learning for coders
-2. [mml-book.github.io](https://mml-book.github.io/) - mathematics for machine learning (the textbook)
-3. leetcode for fun - [repository](https://github.com/asatpathy314/leetcode)
+1. [A recreation of Yann LeCun's 1998 MNIST digits recognition paper.](https://github.com/asatpathy314/mnist) - recreating papers to learn PyTorch
+2. [Stanford CS231n](https://cs231n.github.io/) - learning some theory from Stanford's "CS231n: Deep Learning for Computer Vision"
+3. [mml-book.github.io](https://mml-book.github.io/) - mathematics for machine learning (the textbook)
+4. leetcode for fun - [repository](https://github.com/asatpathy314/leetcode)
 
 ## Some of my Favorite Projects
 1. `diff-sentry` a stab at scalable code analysis for OSS security - [link](https://diff-sentry.tech)
