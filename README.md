@@ -1,4 +1,4 @@
-if you have interesting books/resources/ideas for collaboration feel free to send me an email at satpathy(dot)abhishek001(at) google's email provider.
+if you have interesting books/resources/ideas feel free to send me an email at satpathy(dot)abhishek001(at) google's email provider.
 
 ## right now
 1. [A recreation of Yann LeCun's 1998 MNIST digits recognition paper.](https://github.com/asatpathy314/mnist) - recreating papers to learn PyTorch
