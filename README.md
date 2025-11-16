@@ -1,10 +1,9 @@
 if you have interesting books/resources/ideas feel free to send me an email at satpathy(dot)abhishek001(at)gmail.com
 
 ## right now
-1. [A recreation of Yann LeCun's 1998 MNIST digits recognition paper.](https://github.com/asatpathy314/mnist) - recreating papers to learn PyTorch
-2. [Stanford CS231n](https://cs231n.github.io/) - learning some theory from Stanford's "CS231n: Deep Learning for Computer Vision"
-3. [Mathematics for Machine Learning](https://mml-book.github.io/) - the textbook
-4. leetcode for fun - [repository](https://github.com/asatpathy314/leetcode)
+1. Programming Massively Parallel Processors.
+2. Active Learning for modeling expensive simulations in partnership with LMI.
+3. Lots of practical automations at Forge ranging from email agents to logging alerts.
 
 ## projects
 1. `diff-sentry` a stab at scalable code analysis for OSS security - [link](https://diff-sentry.tech)
