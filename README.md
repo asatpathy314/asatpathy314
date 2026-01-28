@@ -8,7 +8,7 @@ feel free to send me an email at satpathy(dot)abhishek001(at)gmail.com if you wa
 ## projects
 1. [sparse malicious finetuning](https://github.com/asatpathy314/sparse-malicious-sft) - how small amounts of malicious supervised fine-tuning (SFT) can flip safety-aligned LMs from refusal to compliance
 2. [medical symptom extractor](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor) a full pipeline built in Python to extract symptoms from natural language using Apache cTAKES and SciSpaCy and validate the results against pre-determined ground truth
-3. [NER evals]((https://github.com/asatpathy314/ner-model-analysis-for-ems) a named entity recognition analysis eval pipeline
+3. [NER evals](https://github.com/asatpathy314/ner-model-analysis-for-ems) a named entity recognition analysis eval pipeline
 4. [spmmul](https://github.com/asatpathy314/spmspmmul) - pretty fast sparse matrix multiplication on GPUs with a report attached
 5. [diff sentry](https://diff-sentry.tech) - scalable, configurable code analysis for software security
 
