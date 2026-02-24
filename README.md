@@ -1,9 +1,8 @@
 feel free to send me an email at satpathy(dot)abhishek001(at)gmail.com if you want to chat
 
 ## interests right now (projects/reading)
-1. introspection in LLMs
-2. scaling automated interpretability
-3. mech interp
+1. solving interesting engineering problems
+2. introspection in LLMs
 
 ## projects
 1. [sparse malicious finetuning](https://github.com/asatpathy314/sparse-malicious-sft) - how small amounts of malicious supervised fine-tuning (SFT) can flip safety-aligned LMs from refusal to compliance
