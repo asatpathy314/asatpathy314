@@ -1,20 +1,17 @@
-feel free to send me an email at satpathy(dot)abhishek001(at)gmail.com if you want to chat
+email: {lastname}(dot){firstname}001(at)gmail(dot)com
 
-## interests right now (projects/reading)
-1. solving interesting engineering problems
-2. introspection in LLMs
+## who am i
+
+i'm a cs and math double major at uva (class of 2027). i really love solving puzzles of all kinds. i do work across a variety of different fields, everything from typical full-stack work at Forge (where i'm director of engineering) to replicating mech interp papers for my research role at uva.
+
+i've published at emnlp 2024 and aaai 2026, and my current research is on introspective awareness in large language models — basically trying to understand whether models have calibrated representations of their own internal states.
+
+i used to be an avid ctf player and you may find some of my writeups in the archive on my blog and in my github repository graveyard. i still think they're really fun but other things are more interesting to me.
+
+i'll be interning at aws sjc38 in santa clara this summer so if you're in the area feel free to send me an email and we can connect and grab a coffee.
 
 ## projects
-1. [sparse malicious finetuning](https://github.com/asatpathy314/sparse-malicious-sft) - how small amounts of malicious supervised fine-tuning (SFT) can flip safety-aligned LMs from refusal to compliance
-2. [medical symptom extractor](https://github.com/asatpathy314/cTAKES-SciSpaCy-symptom-extractor) a full pipeline built in Python to extract symptoms from natural language using Apache cTAKES and SciSpaCy and validate the results against pre-determined ground truth
-3. [NER evals](https://github.com/asatpathy314/ner-model-analysis-for-ems) a named entity recognition analysis eval pipeline
-4. [spmmul](https://github.com/asatpathy314/spmspmmul) - pretty fast sparse matrix multiplication on GPUs with a report attached
-5. [diff sentry](https://diff-sentry.tech) - scalable, configurable code analysis for software security
 
-## fun classes at UVA
-1. CS 3130 - Computer Systems and Organization II: Virtual memory, caches, pipelining, and some other low-level stuff including how attacks like Meltdown and Spectre work behind the hood.
-2. CS 3100 - Data Structures and Algorithms II: An upper-level course on algorithms with an emphasis on problem-solving techniques with graphs, divide-and-conquer algorithms, greedy algorithms, dynamic programming, reductions, and some basic machine learning.
-3. CS 4501 - Reinforcement Learning: An introduction from bandit algorithms to deep-Q-learning meant to teach you about the principles of Reinforcement Learning without getting too nitty-gritty with proofs and the mathematics behind the algorithms. We worked through chapters 1-13 of "Reinforcement learning : an introduction / Richard S. Sutton and Andrew G. Barto" skipping a few minor things along the way.
-4. ECE 2410 - Machine Learning: An introduction to some of the principles of machine learning beginning with unsupervised vs. supervised learning and ending with hyperparameter optimization and neural networks.
-5. CS 3120 - Theory of Computation: Finite State Automata, Circuits, Context-free languages, Turing machines, just the usual.
-6. CS 4501 - Algorithmic Economics: How modern economics combines techniques in machine learning and statistics with economic knowledge to create efficient markets. Mostly an introduction where we learn about the basics of how reinforcement learning techniques, game theory, and tools like linear programming can be applied in an economic context.
+1. [sparse malicious finetuning](https://github.com/asatpathy314/sparse-malicious-sft) - how small amounts of malicious supervised fine-tuning (SFT) can flip safety-aligned LMs from refusal to compliance. this result essentially got published in a much more robust form by anthropic while we were working on it, but it was still a fun project.
+2. [spmspmmul](https://github.com/asatpathy314/spmspmmul) - the code and writeup for how we wrote a really fast sparse-matrix multiplication kernel
+3. [zero-shot-realignment](https://github.com/asatpathy314/zero-shot-realignment) - we replicate the results from [here](https://arxiv.org/pdf/2506.11618) and [here](https://arxiv.org/pdf/2506.11613) onto `gemma-4-e4b-it` for the first time.
