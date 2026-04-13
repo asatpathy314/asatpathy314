@@ -4,7 +4,7 @@ email: {lastname}(dot){firstname}001(at)gmail(dot)com
 
 i'm a cs and math double major at uva (class of 2027). i really love solving puzzles of all kinds. i do work across a variety of different fields, everything from typical full-stack work at Forge (where i'm director of engineering) to replicating mech interp papers for my research role at uva.
 
-i've published at emnlp 2024 and aaai 2026, and my current research is on introspective awareness in large language models — basically trying to understand whether models have calibrated representations of their own internal states.
+i've published at emnlp 2024 and aaai 2026, and my current research is on calibrating work on introspective awareness in large language models.
 
 i used to be an avid ctf player and you may find some of my writeups in the archive on my blog and in my github repository graveyard. i still think they're really fun but other things are more interesting to me.
 
