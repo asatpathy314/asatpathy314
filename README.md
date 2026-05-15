@@ -8,7 +8,7 @@ i've published at emnlp 2024 and aaai 2026, and my current research is on calibr
 
 i used to be an avid ctf player and you may find some of my writeups in the archive on my blog and in my github repository graveyard. i still think they're really fun but other things are more interesting to me.
 
-i'll be interning at aws sjc38 in santa clara this summer so if you're in the area feel free to send me an email and we can connect and grab a coffee.
+i'll be interning at google in sunnyvale this summer so if you're in the area feel free to send me an email and we can connect and grab a coffee.
 
 ## projects
 
