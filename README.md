@@ -1,5 +1,11 @@
 email: {lastname}(dot){firstname}001(at)gmail(dot)com
 
+## current project
+Implementing a LLM inference engine from scratch in C++/CUDA. 
+
+See [my project log.](https://docs.google.com/document/d/16PuGofYMcJI3Zl0jg9U87r3PyTbQbtCliiFIbE_ZaM8/edit?usp=sharing)
+
+
 ## who am i
 
 i'm a cs and math double major at uva (class of 2027). i really love solving puzzles of all kinds. i do work across a variety of different fields, everything from typical full-stack work at Forge (where i'm director of engineering) to replicating mech interp papers for my research role at uva.
