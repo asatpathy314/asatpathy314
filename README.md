@@ -1,9 +1,7 @@
 email: {lastname}(dot){firstname}001(at)gmail(dot)com
 
 ## current project
-Implementing a LLM inference engine from scratch in C++/CUDA. 
-
-See [my project log.](https://docs.google.com/document/d/16PuGofYMcJI3Zl0jg9U87r3PyTbQbtCliiFIbE_ZaM8/edit?usp=sharing)
+Implementing a LLM inference engine from scratch in C++/CUDA. See [my project log](https://docs.google.com/document/d/16PuGofYMcJI3Zl0jg9U87r3PyTbQbtCliiFIbE_ZaM8/edit?usp=sharing) if you're interested.
 
 
 ## who am i
