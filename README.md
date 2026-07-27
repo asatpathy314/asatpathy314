@@ -1,10 +1,9 @@
 email: {lastname}(dot){firstname}001(at)gmail(dot)com
 
 ## current project
-Implementing a LLM inference engine from scratch in C++/CUDA. See [my project log](https://docs.google.com/document/d/16PuGofYMcJI3Zl0jg9U87r3PyTbQbtCliiFIbE_ZaM8/edit?usp=sharing) if you're interested.
+implementing a LLM inference engine from scratch in C++/CUDA. see [my project log](https://docs.google.com/document/d/16PuGofYMcJI3Zl0jg9U87r3PyTbQbtCliiFIbE_ZaM8/edit?usp=sharing) if you're interested.
 
-
-## who am i
+## about me
 
 i'm a cs and math double major at uva (class of 2027). i really love solving puzzles of all kinds. i do work across a variety of different fields, everything from typical full-stack work at Forge (where i'm director of engineering) to replicating mech interp papers for my research role at uva.
 
@@ -14,7 +13,7 @@ i used to be an avid ctf player and you may find some of my writeups in the arch
 
 i'll be interning at google in sunnyvale this summer so if you're in the area feel free to send me an email and we can connect and grab a coffee.
 
-## projects
+## past projects
 
 1. [sparse malicious finetuning](https://github.com/asatpathy314/sparse-malicious-sft) - how small amounts of malicious supervised fine-tuning (SFT) can flip safety-aligned LMs from refusal to compliance. this result essentially got published in a much more robust form by anthropic while we were working on it, but it was still a fun project.
 2. [spmspmmul](https://github.com/asatpathy314/spmspmmul) - the code and writeup for how we wrote a really fast sparse-matrix multiplication kernel
